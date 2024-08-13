@@ -5,6 +5,8 @@ This project is a Currency Converter web application built using HTML, CSS, and 
 #Exchange Rate Fetching:
 The app fetches exchange rates using the Currency API, calculating the converted amount based on user input.
 
-![cc2](https://github.com/user-attachments/assets/34c66390-feb5-4198-92d1-9564f2b4721c)
-![CC](https://github.com/user-attachments/assets/dd97b5a9-587d-4c3f-bf39-9b5f42e9bd2b)
+
+![CC](https://github.com/user-attachments/assets/52f4ab02-d910-4049-b698-48b1ddbf122e)
+![cc2](https://github.com/user-attachments/assets/fcdaa31e-fc6a-4e40-b33c-335800234bf1)
+
 
